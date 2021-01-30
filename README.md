@@ -13,6 +13,6 @@ I'm **Likhit Ajeesh** and welcome to my GitHub profile!
 
 ## Socials 😋
 
-<img src="https://img.shields.io/badge/Gmail-f00000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="likhitajeesh20@gmail.com"><img src="https://img.shields.io/badge/Gmail-f00000?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 
