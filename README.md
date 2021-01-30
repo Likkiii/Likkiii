@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello there 👋
 
 I'm **Likhit Ajeesh** and welcome to my GitHub profile!
 
