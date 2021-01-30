@@ -9,10 +9,11 @@ I'm **Likhit Ajeesh** and welcome to my GitHub profile!
 
 ## Stats 📈
 
-![Likhit Ajeesh's github stats](https://github-readme-stats.vercel.app/api?username=Likkiii)
+<img src="https://github-readme-stats.vercel.app/api?username=Likkiii&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=32008f">)
 
 ## Socials 😋
 
 <a href="likhitajeesh20@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=#3234a8"/></a>
+
 
 
