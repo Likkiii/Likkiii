@@ -2,7 +2,7 @@
 
 I'm **Likhit Ajeesh** and welcome to my GitHub profile!
 
-- 🔭 I'm currently working on a Tic-Tac-toe project
+- 🔭 I'm currently working on a Tic-Tac-Toe project
 - 🌱 I’m currently learning Web Development
 - ✨ I'm interested in coding and developing websites
 - ⚡ Fun fact: I'm an Athlete
