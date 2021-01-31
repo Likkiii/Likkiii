@@ -9,7 +9,7 @@ I'm **Likhit Ajeesh** and welcome to my GitHub profile!
 
 ## Stats 📈
 
-<img src="https://github-readme-stats.vercel.app/api?username=Likkiii&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=30,32008f,9e64f5">)
+<img src="https://github-readme-stats.vercel.app/api?username=Likkiii&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=30,3d0099,aa73ff">)
 
 ## Socials 😋
 
