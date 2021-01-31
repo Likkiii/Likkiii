@@ -13,8 +13,12 @@ I'm **Likhit Ajeesh** and welcome to my GitHub profile!
 
 ## Socials 😋
 
-<a href="https://www.instagram.com/_.lyk._/?hl=en">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href = "https://www.linkedin.com/in/likhit-ajeesh-179a17205/">
+  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href = "https://www.instagram.com/_.lyk._/?hl=en">
+  <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 
