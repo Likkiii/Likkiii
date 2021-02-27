@@ -13,6 +13,10 @@ I'm **Likhit Ajeesh** and welcome to my GitHub profile!
 
 ## Socials 😋
 
+<a href = "https://likkiii.github.io/">
+  <img src = "https://img.shields.io/badge/-Website-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white&color=00b82b&logo=data:null"/>
+</a>
+
 <a href = "https://www.linkedin.com/in/likhit-ajeesh-179a17205/">
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -21,8 +25,6 @@ I'm **Likhit Ajeesh** and welcome to my GitHub profile!
   <img src = "https://img.shields.io/badge/Instagram-e30b34?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href = "https://likkiii.github.io/">
-  <img src = "https://img.shields.io/badge/-Website-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white&color=00b82b&logo=data:null"/>
-</a>
+
 
 
