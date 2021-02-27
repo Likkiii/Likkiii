@@ -18,7 +18,11 @@ I'm **Likhit Ajeesh** and welcome to my GitHub profile!
 </a>
 
 <a href = "https://www.instagram.com/_.lyk._/?hl=en">
-  <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/Instagram-e30b34?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href = "https://likkiii.github.io/">
+  <img src = "https://img.shields.io/badge/-Website-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white&color=00b82b&logo=data:null"/>
 </a>
 
 
