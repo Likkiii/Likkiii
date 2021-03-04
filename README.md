@@ -3,8 +3,8 @@
 I'm **Likhit Ajeesh** and welcome to my GitHub profile!
 
 - 🔭 I'm currently working on a project <a href = "https://github.com/Likkiii/Tic-Tac-Toe">Tic-Tac-Toe</a>
+- 👯 I’m looking forward to collaborate with other developers and participate in events
 - 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate with other developers and participate in events
 - ✨ I'm interested in competitive coding and developing websites
 - ⚡ Fun fact: I'm an Athlete and a Dancer
 
