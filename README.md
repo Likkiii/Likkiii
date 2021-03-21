@@ -1,10 +1,9 @@
-## Hello there <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px">
+## Hello there <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px"> , I'm Likhit Ajeesh
 
-I'm **Likhit Ajeesh** and welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
-- 🔭 I'm currently working on a project <a href = "https://github.com/Likkiii/Tic-Tac-Toe">Tic-Tac-Toe</a>
+- 🌱 I’m currently learning Web Development and ReactJS
 - 👯 I’m looking forward to collaborate with other developers and participate in events
-- 🌱 I’m currently learning Web Development
 - ✨ I'm interested in competitive coding and developing websites
 - ⚡ Fun fact: I'm an Athlete and a Dancer
 
@@ -26,6 +25,8 @@ I'm **Likhit Ajeesh** and welcome to my GitHub profile!
   <img src = "https://img.shields.io/badge/Instagram-e30b34?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say <b>Hi!, I'll be happy to meet and know you more!</b> :)</em>
 
 
 
