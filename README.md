@@ -1,6 +1,6 @@
 # Hello there <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px"> , I'm Likhit Ajeesh
 
-Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
 
 - 🌱 I’m currently learning Web Development and ReactJS
 - 👯 I’m looking forward to collaborate with other developers and participate in events
