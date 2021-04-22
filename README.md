@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development and ReactJS
 - 👯 Looking forward to collaborate with other developers and participate in events
 - ✨ Interested in competitive coding and developing websites
-- ⚡ I'm an Athlete as well as a Dancer too
+- ⚡ I'm an Athlete as well as a Dancer 
 
 ## Stats 📈
 
