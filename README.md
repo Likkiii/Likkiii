@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development and ReactJS
 - 👯 Looking forward to collaborate with other developers and participate in events
 - ✨ Interested in competitive coding and developing websites
-- ⚡ I'm an Athlete as well as a Dancer 
+- ⚡ Fun Fact: I'm an Athlete as well as a Dancer 
 
 ## Stats 📈
 
@@ -25,7 +25,7 @@
 
 <div align = "center">
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say <b>Hi!, I'll be happy to meet and know you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say <b>Hi!, I'll be happy to get to know you more!</b> :)</em>
 </div>
 
 
