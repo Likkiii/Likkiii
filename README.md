@@ -3,7 +3,8 @@
 <img align='right' src='https://raw.githubusercontent.com/Likkiii/Likkiii/main/Images/JJK.gif' width='350' height="205">
 
 - 🌱 I'm currently learning MERN Stack
-- 👯 Looking forward to collaborate with other developers and participate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; in events
+- 👯 Looking forward to collaborate with other developers and participate 
+     in events
 - ✨ Interested in competitive coding and developing websites
 - 💬 You can talk to me about Athletics, Games and Movies
 - ⚡ Fun Fact: I'm a Weeb, Athlete as well as a Dancer <br><br>
