@@ -1,7 +1,7 @@
 # Hello there <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px"> , I'm Likhit Ajeesh
 
 - 🌱 Currently learning MERN Stack
-- 👯 Looking forward to collaborate with other developers and participate in events/hackathons
+- 👯 Looking forward to collaborate with other developers and participate in events
 - ✨ Interested in competitive coding and developing websites
 - 💬 You can talk to me about Athletics, Games and Movies
 - ⚡ Fun Fact: I'm a Weeb, Athlete as well as a Dancer <br><br>
