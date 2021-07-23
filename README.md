@@ -8,11 +8,10 @@
 - 💬 You can talk to me about Athletics, Games and Movies
 - ⚡ Fun Fact: I'm a Weeb, Athlete as well as a Dancer <br><br>
 
-<!--
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="Likhit Ajeesh Spotify Playing" width="350" />](https://open.spotify.com/user/npn02zhsn7pnuw4x7bxcemda)
--->
+
 
 ## Stats 📈
 
@@ -34,7 +33,7 @@
 
 <div align = "center">
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say <b>Hi!, I'll be happy to get to know you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say a <b>Hi!, I'll be happy to get to know you more!</b> :)</em>
 </div>
 
 
