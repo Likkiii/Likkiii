@@ -17,7 +17,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Likkiii&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=30,3b006b,aa73ff">
 
-## Socials 😋
+## Socials 🙌
 
 <a href = "https://likkiii.github.io/">
   <img src = "https://img.shields.io/badge/-Website-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white&color=00b82b&logo=data:null"/>
