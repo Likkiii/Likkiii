@@ -1,6 +1,6 @@
 # Hello there <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px"> , I'm Likhit Ajeesh
 
-<img align='right' src='https://raw.githubusercontent.com/Likkiii/Likkiii/main/Images/JJK2.gif' width='410' height="225">
+<img align='right' src='https://raw.githubusercontent.com/Likkiii/Likkiii/main/Images/jjk4.gif' width='410' height="225">
 
 - 🌱 I'm currently learning MERN Stack
 - 👯 Looking forward to collaborate with other developers and &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; participate in events
