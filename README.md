@@ -8,10 +8,9 @@
 - 💬 You can talk to me about Athletics, Games and Movies
 - ⚡ Fun Fact: I'm a Weeb, Athlete as well as a Dancer <br><br>
 
-<!-- ### Spotify Playing 🎧
+ ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="Likhit Ajeesh Spotify Playing" width="350" />](https://open.spotify.com/user/npn02zhsn7pnuw4x7bxcemda)
--->
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 ## Stats 📈
 
