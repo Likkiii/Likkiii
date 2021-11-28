@@ -9,9 +9,9 @@
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/likhit-ajeesh)
 - ⚡ Fun Fact: I'm a Weeb, Athlete as well as a Dancer <br><br>
 
- ### Spotify Playing 🎧
+<!--  ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks) -->
 
 ## Stats 📈
 
