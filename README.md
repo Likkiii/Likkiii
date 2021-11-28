@@ -6,7 +6,7 @@
 - 👯 Looking forward to collaborate with other developers and &nbsp;participate in events
 - ✨ Interested in competitive coding and developing websites
 - 💬 You can talk to me about Athletics, Games and Movies
-- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/likhit-ajeesh-179a17205/)
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/likhit-ajeesh)
 - ⚡ Fun Fact: I'm a Weeb, Athlete as well as a Dancer <br><br>
 
  ### Spotify Playing 🎧
