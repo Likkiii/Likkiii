@@ -23,12 +23,16 @@
   <img src = "https://img.shields.io/badge/-Website-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white&color=00b82b&logo=data:null"/>
 </a>
 
-<a href = "https://www.linkedin.com/in/likhit-ajeesh/">
-  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://twitter.com/itzlikkiii" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <a href = "https://www.instagram.com/_.lyk._/?hl=en">
   <img src = "https://img.shields.io/badge/Instagram-e30b34?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href = "https://www.linkedin.com/in/likhit-ajeesh/">
+  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <div align = "center">
