@@ -1,5 +1,7 @@
 # Hello there <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px"> , I'm Likhit Ajeesh
 
+<img src="https://komarev.com/ghpvc/?username=Likkiii&label=Profile%20views&color=8031ff" alt="sanjaybaskaran01"/>
+
 <img align='right' src='https://raw.githubusercontent.com/Likkiii/Likkiii/main/Images/jjk4.gif' width='410' height="225">
 
 - 🌱 I'm currently learning MERN Stack
@@ -9,9 +11,9 @@
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/likhit-ajeesh)
 - ⚡ Fun Fact: I'm a Weeb, Athlete as well as a Dancer <br><br>
 
-## Profile Visits
+<!-- ## Profile Visits
 
-![VisitorCount](https://profile-counter.glitch.me/Likkiii/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/Likkiii/count.svg) -->
 
  ### Spotify Playing 🎧
 
@@ -28,7 +30,7 @@
   </tr>
 </table>
 
-## Productivity 💪
+## Productivity 💻
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Likkiii&theme=dracula"  display=block width=100% height=auto  alt="1" ></td>
@@ -56,7 +58,7 @@
 <a href = "https://www.linkedin.com/in/likhit-ajeesh/">
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+  
 <div align = "center">
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say a <b>Hi!, I'll be happy to get to know you more!</b> :)</em>
