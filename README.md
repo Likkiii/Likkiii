@@ -15,7 +15,27 @@
 
 ## Stats 📈
 
-<img src="https://github-readme-stats.vercel.app/api?username=Likkiii&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=30,3b006b,aa73ff">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Likkiii&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=30,3b006b,aa73ff"> -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likkiii&theme=midnight-purple&fire=orange&ring=orange&currStreakLabel=orange&currStreakNum=orange&sideLabels=9b5cff" display=block width=100% height=auto alt="3" align="right">
+    </td>
+    <td> 
+      <img src="https://github-readme-stats.vercel.app/api?username=Likkiii&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=30,3b006b,aa73ff">       </td>
+  </tr> 
+</table>
+
+## Productivity 💪
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Likkiii&theme=dracula"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=Likkiii&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
 
 ## Socials 🙌
 
