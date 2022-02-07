@@ -9,21 +9,23 @@
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/likhit-ajeesh)
 - ⚡ Fun Fact: I'm a Weeb, Athlete as well as a Dancer <br><br>
 
-<!--  ### Spotify Playing 🎧
+## Profile Visits
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks) -->
+![VisitorCount](https://profile-counter.glitch.me/Likkiii/count.svg)
+
+ ### Spotify Playing 🎧
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 ## Stats 📈
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Likkiii&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=30,3b006b,aa73ff"> -->
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likkiii&theme=midnight-purple&fire=orange&ring=orange&currStreakLabel=orange&currStreakNum=orange&sideLabels=9b5cff" display=block width=100% height=auto alt="3" align="right">
-    </td>
-    <td> 
-      <img src="https://github-readme-stats.vercel.app/api?username=Likkiii&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=30,3b006b,aa73ff">       </td>
-  </tr> 
+      <img src="https://github-readme-stats.vercel.app/api?username=Likkiii&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=30,3b006b,aa73ff">   
+  </tr>
+  <tr>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likkiii&theme=midnight-purple&fire=orange&ring=orange&currStreakLabel=orange&currStreakNum=orange&sideLabels=9b5cff" display=block width=auto height=auto>
+  </tr>
 </table>
 
 ## Productivity 💪
