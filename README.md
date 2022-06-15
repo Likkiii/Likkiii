@@ -1,4 +1,4 @@
-# Hello there <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px"> , I'm Likhit Ajeesh
+# Hello there, I'm Likhit Ajeesh
 
 <img src="https://komarev.com/ghpvc/?username=Likkiii&label=Profile%20views&color=8031ff" alt="Likkiii"/>
 
