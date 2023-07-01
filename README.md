@@ -4,10 +4,10 @@
 
 <img align='right' src='https://raw.githubusercontent.com/Likkiii/Likkiii/main/Images/jjk4.gif' width='410' height="225">
 
-- 🌱 I'm currently learning MERN Stack
+- 🌱 I'm currently exploring DevOps
 - 👯 Looking forward to collaborate with other developers and &nbsp;participate in events
 - ✨ Interested in competitive coding and developing websites
-- 💬 You can talk to me about Athletics, Games and Movies
+- 💬 You can talk to me about Athletics, Games and Anime
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/likhit-ajeesh)
 - ⚡ Fun Fact: I'm a Weeb, Athlete as well as a Dancer <br><br>
 
